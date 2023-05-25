@@ -1,3 +1,3 @@
-watch CERN ROOT Tutorial 7: Creating Random Numbers
+watch CERN ROOT Tutorial 21: Plotting Histograms with TProfile
 
-https://www.youtube.com/watch?v=Fz7NdSr6CGw&list=PLLybgCU6QCGWLdDO4ZDaB0kLrO3maeYAe&index=7
+https://www.youtube.com/watch?v=-VMcNp2R-V8&list=PLLybgCU6QCGWLdDO4ZDaB0kLrO3maeYAe&index=21
